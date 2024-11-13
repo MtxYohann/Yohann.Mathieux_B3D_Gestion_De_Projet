@@ -1,85 +1,82 @@
+
 # Démarrer un projet informatique
 
 ## Identifier les enjeux
-Grande question qui vas permettre au projet de vivre
+Grande question qui va permettre au projet de vivre.
 
 critère de réussite (pas de méthode)
 
-les moyens néssesaire 
+Les moyens nécessaires
 
-taille de l'équipe
+Taille de l'équipe
 
-date de sortie
+Date de sortie
 
+## Définir les objectifs du projet
+La solution
 
-## définir les objectifs du projet
-la solution
-
-que veut-on obtenir ?
-
+Que veut-on obtenir ?
 
 ## Le périmètre du projet
-portée du projet 
+Portée du projet
 
-se qui valide les enjeux et les objectifs du projet
+Ce qui valide les enjeux et les objectifs du projet.
 
-lister les features du projet
+Lister les features du projet
 
-limite finansière, humaine, temporaire  (diagramme de Gant)
+Limite financière, humaine, temporaire  (diagramme de Gant)
 
-avoir un support qui montre clairement les limites du projet
+Avoir un support qui montre clairement les limites du projet.
 
-
-# Elaborer un projet
+# Élaborer un projet
 
 ## Dimensionner le projet
 
-prévoir qu'elle ressource sur qu'elle durée et sur qu'elle tâche 
+Prévoir qu'elle ressource Sur quelle durée et sur quelle tâche
 
 ## Constituer une équipe
 
-compétence de chacun 
+Compétence de chacun
 
-répartition des tâches intéligente 
+Répartition des tâches intéligente
 
 ## Déclencher le projet
 
-vérifier que tout se qui a été vue avant est prêt
+Vérifier que tout ce qui a été vu avant est prêt.
 
-# l'apport de la conduite de projet 
+# l'apport de la conduite de projet
 
-## maximiser la valeur du projet
+## Maximiser la valeur du projet
 
+## Fiabiliser l'emploi des ressources et le planning
 
-## fiabliliser l'emploi des ressources et le planning
-
-économiser un maximum les ressources
+économiser un maximum les ressources.
 
 ## Développer son équipe
 
-formation
+Formation
 
 # quatre projets sous forme d'étude de cas
 
-# aspect financiers et juridiques
+# aspect financier et juridique
 
-## les aspects financers
+## les aspects financiers
 
-cohérente 
+cohérente
 
 ## Les budgets
 
-maintenance, évolution et sécurité 
+Maintenance, évolution et sécurité
 
 ## Le compte de résultats
 
-bibliographie
+Bibliographie
 
 faire une grille des coûts
 
-## Composants principales
+## Composants principaux
 
-### 1 Réalisation (environ 75%  première année)
+### 1 Réalisation (environ 75%  première année)
 
 ### Salaires & Prestations
 
@@ -89,12 +86,12 @@ Variable: compétences, expérience, modalités
 
 ### 2 Modes de Facturations
 
-Régis 
+Régis
 Forfait
 
 ### 3 Infra et Exploitation
 
-Hébergement 
+Hébergement
 Maintenance (supervision, sauvegardes)
 
 ### 4 Support & services
@@ -112,17 +109,16 @@ Frais commerciaux
 
 ### indicateur clés
 
-Engagement 
+Engagement
 % utilisation budget
 suivi rythme dépense
 
-# Protection de données Personnelles
+# Protection des données Personnelles
 
 ## Principes fondamentaux
 
-application du RGPD
+Application du RGPD
 Propriété des données par les individus
-
 
 # La prise en compte du risque
 
@@ -130,7 +126,7 @@ Propriété des données par les individus
 
 ### Intro
 
-permet de se structuré et d'apporté un carde au projet
+permet de se structurer et d'apporter un carde au projet.
 
 ### Les trois axes clés
 
@@ -144,8 +140,7 @@ phase de dev
 
 livraison
 
-maintenance 
-
+maintenance
 
 2. axe d'analyse (niveau d'abstraction)
 
@@ -157,13 +152,13 @@ Compatible avec UML et Merise
 
 3. axe de pilotage (cycle de décision)
 
-Points de côntrole
+Points de contrôle
 
 gestion des aléas
 
 Prise de décision
 
-## Le modèle de developpement
+## Le modèle de développement
 
 ### modèle cascade
 
@@ -207,10 +202,9 @@ SQL
 
 MDP
 
-
 ### modèle UML
 
-très bien pour le dev objets
+très bien pour le dev objet.
 
 ## modèle de pilotage
 
@@ -220,9 +214,9 @@ canaux formels
 
 canaux informels
 
-### les indicateur clés de performance (PKI)
+### Les indicateurs clés de performance (PKI)
 
-données très facilement meusureble, calqué sur nos enjeux à atteindre
+données très facilement mesurebles, calquées sur nos enjeux à atteindre.
 
 #### 1. Planning
 écart prévisionnel/réalisé
@@ -234,8 +228,8 @@ Niveau de charge équipe
 #### 2. qualité
 
 Nombre d'anomalies
-Temps de traitement 
-Balance âgée 
+Temps de traitement
+Balance âgée
 
 #### 3. Roadmap
 
@@ -257,17 +251,14 @@ Investissement
 
 Niveau sous-traitance
 
-Motivation 
+Motivation
 
-#### 6. Risque 
+#### 6. Risque
 
-Timing 
+Timing
 
 Méthode de diffusion
 
 documenter
 
-hiérarchiser les risques et faire de la prévention, pouvoir agir en concéquence, il faut le faire à tous les niveaux
-
-
-
+Hiérarchiser les risques et faire de la prévention, pouvoir agir en conséquence, il faut le faire à tous les niveaux
