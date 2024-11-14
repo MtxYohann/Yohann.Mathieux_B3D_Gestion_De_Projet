@@ -262,3 +262,151 @@ Méthode de diffusion
 documenter
 
 Hiérarchiser les risques et faire de la prévention, pouvoir agir en conséquence, il faut le faire à tous les niveaux
+
+
+# L'approche classique du projet
+
+## Le modèle en cascade est une référence
+
+retour en arrière possiblement cher
+
+## Les phases du projet
+
+### L'expression de besoins et le cahier des charges
+
+le cahier des charges vas représenter l'expression des besoins
+
+indispensable à tout projet en entreprise
+
+liste de spec, besoins, enjeux
+
+tout doit être clair et marqué dedans
+
+contexte, obejectifs stratégique, objet et périmètre du projet
+
+Domaine métier / périmètre fonctionnel
+
+Critères de qualité
+
+Plus le cahier est complet et clair plus il vas être facile de se mettre d'acord avec le client et de permettre de le facturer
+
+se n'est pas un document fixe mais il faut éviter car peu engendré beaucoup de problème
+
+
+# Rendre les projets agiles
+
+## Les bases de l'agilité
+
+### La maitrise du risque
+
+avantage : moins d'effet tunnel, méthode moins rigide, méthode qui s'adapte et qui est évolutive (budget, délai...)
+
+objectif de la méthode pouvoir prévoir une adaptabilitée à toute les situations
+
+### Des préceptes agiles
+
+Stratégie des petits pas
+
+fail fast & quick win
+
+implication client, feedback constant
+
+### Nouveaux Rôles
+
+#### Product Manager/Owner
+
+maximiser la valeur du produit
+
+dicte l'oriantation global du projet
+
+interlocuteur privilégier du client 
+
+
+#### Scrum Master
+
+chef de projet de la méthode scrum
+
+chef d'orchestre, garant du respect de la méthode
+
+#### Product Designer
+
+intervient pour concevoir l'UX UI 
+
+gère le design
+
+#### Delivery Management
+
+c'est un devOps
+
+automatisation des processus
+
+permet au dev de se focus sur le code
+
+## Des approches agiles remarquables
+
+### La méthodologie Scrum
+
+#### Principes fondamentaux
+
+cycles courts (sprints)
+
+dev incrémental
+
+livraisons progressives
+
+#### Le backlog
+
+toute les tâches sont mise à jour ici
+
+"pot pourrie" ou l'on vient piocher pour le prochain sprint
+
+User stories (US) description d'une fonctionnalité du produit avec un point de vue utilisateur
+
+Technical Stories (TS) description d'une fonctionnalité du produit avec un point de vue technique
+
+Epic et features nom du doc qui regroupe les US ou TS
+
+#### un sprint
+
+1. Sprint PLanning
+
+* Sélection des US
+
+* planifications du sprint
+
+2. Daily Standup
+
+* Avancement quotidien
+
+* identification des blocages
+
+* 15 min max
+
+3. Sprint review
+
+* Démo
+
+* Feedback client 
+
+* Validation des livrables
+
+4. Sprint rétrospective
+
+* Amélioration continue
+
+* Retour d'expérience
+
+* Ajustements process
+
+### La méthodologie Kanban
+
+#### Origines et principes
+
+vient du Japon (Toyota) 
+
+flux poussé vs flux tiré
+
+
+# Planification, chiffrage et suivi au quotidien
+
+
