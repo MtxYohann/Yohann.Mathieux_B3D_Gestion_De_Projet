@@ -406,6 +406,27 @@ vient du Japon (Toyota)
 
 flux poussé vs flux tiré
 
+objectif de la méthode réduire le leadtime
+
+
+### Facteur de réussite 
+
+#### Scrum
+
+* Respect des cérémonies
+* Engagement de l'équipe
+* Rôle actif du Scrum Master
+* Backlog bien maintenu
+* Communication
+
+#### Kanban
+
+* Visualisation claire
+* Limites WIP respectées
+* Flux optimisé
+* Amélioration continue
+* Automatisation process
+
 
 # Planification, chiffrage et suivi au quotidien
 
